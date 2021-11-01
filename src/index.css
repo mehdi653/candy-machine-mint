@@ -13,11 +13,15 @@ p {
   background-color: #303030;
   color: #FFFFFF;
 }
+a {
+  color: #ffc0c0;
+}
 h1 {
   text-align: center;
   background-color: #303030;
   color: #FFFFFF;
 }
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
