@@ -8,7 +8,16 @@ body {
   background-color: #303030;
   color: #FFFFFF;
 }
-
+p {
+  text-align: center;
+  background-color: #303030;
+  color: #FFFFFF;
+}
+h1 {
+  text-align: center;
+  background-color: #303030;
+  color: #FFFFFF;
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
